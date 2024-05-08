@@ -1,1 +1,1 @@
-# comparative_analysis_of_multimodal_llms
+# Comparative Analysis of Multimodal LLMs
